@@ -13,7 +13,7 @@ API использует JWT-аутентификацию для защиты э
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/ваш-username/api_final_yatube.git
+   git clone https://github.com/DarKingRD/api_final_yatube.git
    cd api_final_yatube
    ```
 2. Создайте и активируйте виртуальное окружение:
